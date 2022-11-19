@@ -1,4 +1,4 @@
-package miniPaint.mainMenu;
+package miniPaint.Main;
 
 import miniPaint.Frontend.Menu;
 
